@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Karina Grace Banner" width="80%">
+</p>
+
 ## Hi there 👋
 
 **Karinagrace09/Karinagrace09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
